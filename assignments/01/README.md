@@ -1,4 +1,4 @@
-# Exploring the nature of `block` elements
+# Putting `block`s side-by-side
 
 Each HTML element is a rectangular box. Also, they all have a `layout` property that can be one of the following values: `none`, `block`, `inline`, `inline-blocks` and more.
 
@@ -9,6 +9,10 @@ Each HTML element is a rectangular box. Also, they all have a `layout` property 
 Layout a vertical menu using HTML & CSS that looks exactly as the following image:
 
 ![Sample](https://raw.githubusercontent.com/mariuzzo/Layout-with-HTML-CSS/master/assignment/01/sample/sample.png)
+
+**Rules:**
+
+ - You are only allowed to use `<div>` elements (sorry for killing your creativity).
 
 ### Instructions
 
