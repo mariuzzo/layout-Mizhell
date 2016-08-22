@@ -8,7 +8,7 @@ Each HTML element is a rectangular box. Also, they all have a `layout` property 
 
 Layout a vertical menu using HTML & CSS that looks exactly as the following image:
 
-![Sample](https://raw.githubusercontent.com/mariuzzo/Layout-with-HTML-CSS/master/assignment/01/src/sample.png)
+![Sample](https://raw.githubusercontent.com/mariuzzo/Layout-with-HTML-CSS/master/assignment/01/sample/sample.png)
 
 ### Instructions
 
