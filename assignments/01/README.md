@@ -27,4 +27,4 @@ When you finish with you work, upload it.
 ### Resources
 
  - [Layout — Chapter 2 — Magic of CSS — Adam Schwartz](http://adamschwartz.co/magic-of-css/chapters/2-layout/).
- - [<div> - HTML | MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/div).
+ - [`<div>` - HTML | MDN](https://developer.mozilla.org/en/docs/Web/HTML/Element/div).
