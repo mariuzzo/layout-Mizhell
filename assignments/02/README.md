@@ -20,7 +20,8 @@ Layout a bunch of nested `<div>` elements matching the following picture:
 ### Instructions
 
  1. Clone this repo.
- 2. Go to `assignment/02/work`.
- 3. Start coding inside the file `index.html`.
+ 2. Create a “homework” branch from “master”.
+ 3. Go to `assignment/02/work`.
+ 4. Start coding inside the file `index.html`.
 
 When you finish with you work, upload it.
