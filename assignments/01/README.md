@@ -10,7 +10,7 @@ In this assignment we will be using the `<div>` element, which by default is a `
 
 Layout a vertical menu using HTML & CSS that looks exactly as the following image:
 
-![Sample](https://raw.githubusercontent.com/mariuzzo/Layout-with-HTML-CSS/master/assignment/01/sample/sample.png)
+![Sample](sample/sample.png)
 
 **Rules:**
 
