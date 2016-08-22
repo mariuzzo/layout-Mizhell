@@ -19,8 +19,9 @@ Layout a vertical menu using HTML & CSS that looks exactly as the following imag
 ### Instructions
 
  1. Clone this repo.
- 2. Go to `assignment/01/work`.
- 3. Start coding inside the file `index.html`.
+ 2. Create a “homework-02” branch from “homeworks”.
+ 3. Go to `assignment/01/work`.
+ 4. Start coding inside the file `index.html`.
 
 When you finish with you work, upload it.
 
