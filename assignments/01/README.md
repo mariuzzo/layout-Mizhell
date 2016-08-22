@@ -1,4 +1,4 @@
-# Putting `block`s side-by-side
+# Exploring the nature of `block` elements
 
 Each HTML element is a rectangular box. Also, they all have a `layout` property that can be one of the following values: `none`, `block`, `inline`, `inline-blocks` and more.
 
