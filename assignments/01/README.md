@@ -2,6 +2,8 @@
 
 Each HTML element is a rectangular box. Also, they all have a `layout` property that can be one of the following values: `none`, `block`, `inline`, `inline-blocks` and more.
 
+In this assignment we will be using the `<div>` element, which by default is a `block` element.
+
 **Let's start building something with the `block` property.**
 
 ## Assignment
