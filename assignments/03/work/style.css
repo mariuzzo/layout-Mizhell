@@ -1,0 +1,20 @@
+body {
+  background-color: #F0E68C;
+}
+#gallery {
+  border-style: solid;
+  border-color: black;
+  overflow: auto;
+  padding: 1%;
+  text-align: center;
+}
+.photo {
+  margin: 1%;
+  width: 23%;
+  height: 60px;
+  float: left;
+  background-color: #87CEFA;
+}
+h1, p {
+  text-align: center;
+}
